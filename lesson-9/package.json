@@ -4,7 +4,8 @@
   "description": "First Express webserver",
   "main": "main.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "nodemon 9.7.EX.js"
   },
   "author": "Aaron Snowberger",
   "license": "ISC",
